@@ -1,0 +1,14 @@
+C:\Users\Baby\source\repos\esSocketClient\bin\Debug\esSocketClient.exe.config
+C:\Users\Baby\source\repos\esSocketClient\bin\Debug\esSocketClient.exe
+C:\Users\Baby\source\repos\esSocketClient\bin\Debug\esSocketClient.pdb
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.csproj.AssemblyReference.cache
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\MainWindow.baml
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\MainWindow.g.cs
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\App.g.cs
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient_MarkupCompile.cache
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.g.resources
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.Properties.Resources.resources
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.csproj.GenerateResource.cache
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.exe
+C:\Users\Baby\source\repos\esSocketClient\obj\Debug\esSocketClient.pdb
