@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esSocketServer", "esSocketServer.csproj", "{CBB25CD4-F557-41F5-878F-95A0E662005B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB25CD4-F557-41F5-878F-95A0E662005B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB25CD4-F557-41F5-878F-95A0E662005B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB25CD4-F557-41F5-878F-95A0E662005B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB25CD4-F557-41F5-878F-95A0E662005B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAA519B-7D61-482F-9671-23C76E6CA3E7}
+	EndGlobalSection
+EndGlobal

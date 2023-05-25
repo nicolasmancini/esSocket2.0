@@ -1,0 +1,14 @@
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.csproj.AssemblyReference.cache
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\MainWindow.baml
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\MainWindow.g.cs
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\App.g.cs
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer_MarkupCompile.cache
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.g.resources
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.Properties.Resources.resources
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.csproj.GenerateResource.cache
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Baby\source\repos\esSocketServer\bin\Debug\esSocketServer.exe.config
+C:\Users\Baby\source\repos\esSocketServer\bin\Debug\esSocketServer.exe
+C:\Users\Baby\source\repos\esSocketServer\bin\Debug\esSocketServer.pdb
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.exe
+C:\Users\Baby\source\repos\esSocketServer\obj\Debug\esSocketServer.pdb
